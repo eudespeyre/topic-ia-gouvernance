@@ -1,0 +1,36 @@
+timestamp,configuration,run,question_id,question,model,prompt_tokens,response_tokens,total_tokens,markdown_file
+20260525_122746,A,1,Q1,Quelle est la dépense culturelle totale des régions en 2023 ?,gpt-5.5,23,512,535,20260525_122746_A_Q1_run01.md
+20260525_122757,A,2,Q1,Quelle est la dépense culturelle totale des régions en 2023 ?,gpt-5.5,23,512,535,20260525_122757_A_Q1_run02.md
+20260525_122803,A,1,Q2,Quelle région présente la dépense culturelle totale la plus élevée en 2023 ?,gpt-5.5,25,228,253,20260525_122803_A_Q2_run01.md
+20260525_122808,A,2,Q2,Quelle région présente la dépense culturelle totale la plus élevée en 2023 ?,gpt-5.5,25,160,185,20260525_122808_A_Q2_run02.md
+20260525_122820,A,1,Q3,Quelles colonnes permettent d’identifier les dépenses culturelles d’investissement ?,gpt-5.5,24,512,536,20260525_122820_A_Q3_run01.md
+20260525_122832,A,2,Q3,Quelles colonnes permettent d’identifier les dépenses culturelles d’investissement ?,gpt-5.5,24,512,536,20260525_122832_A_Q3_run02.md
+20260525_122840,A,1,Q4,Le fichier permet-il de comparer l’évolution des dépenses culturelles des régions entre 2014 et 2023 ?,gpt-5.5,32,348,380,20260525_122840_A_Q4_run01.md
+20260525_122847,A,2,Q4,Le fichier permet-il de comparer l’évolution des dépenses culturelles des régions entre 2014 et 2023 ?,gpt-5.5,32,331,363,20260525_122847_A_Q4_run02.md
+20260525_122900,A,1,Q5,Quelle est la dépense culturelle des communes en 2023 ?,gpt-5.5,22,512,534,20260525_122900_A_Q5_run01.md
+20260525_122915,A,2,Q5,Quelle est la dépense culturelle des communes en 2023 ?,gpt-5.5,22,512,534,20260525_122915_A_Q5_run02.md
+20260525_122926,D,1,Q1,Quelle est la dépense culturelle totale des régions en 2023 ?,gpt-5.5,4032,512,4544,20260525_122926_D_Q1_run01.md
+20260525_122938,D,2,Q1,Quelle est la dépense culturelle totale des régions en 2023 ?,gpt-5.5,4032,512,4544,20260525_122938_D_Q1_run02.md
+20260525_122950,D,1,Q2,Quelle région présente la dépense culturelle totale la plus élevée en 2023 ?,gpt-5.5,4034,512,4546,20260525_122950_D_Q2_run01.md
+20260525_123003,D,2,Q2,Quelle région présente la dépense culturelle totale la plus élevée en 2023 ?,gpt-5.5,4034,512,4546,20260525_123003_D_Q2_run02.md
+20260525_123014,D,1,Q3,Quelles colonnes permettent d’identifier les dépenses culturelles d’investissement ?,gpt-5.5,4033,512,4545,20260525_123014_D_Q3_run01.md
+20260525_123026,D,2,Q3,Quelles colonnes permettent d’identifier les dépenses culturelles d’investissement ?,gpt-5.5,4033,512,4545,20260525_123026_D_Q3_run02.md
+20260525_123037,D,1,Q4,Le fichier permet-il de comparer l’évolution des dépenses culturelles des régions entre 2014 et 2023 ?,gpt-5.5,4041,512,4553,20260525_123037_D_Q4_run01.md
+20260525_123050,D,2,Q4,Le fichier permet-il de comparer l’évolution des dépenses culturelles des régions entre 2014 et 2023 ?,gpt-5.5,4041,512,4553,20260525_123050_D_Q4_run02.md
+20260525_123101,D,1,Q5,Quelle est la dépense culturelle des communes en 2023 ?,gpt-5.5,4031,512,4543,20260525_123101_D_Q5_run01.md
+20260525_123113,D,2,Q5,Quelle est la dépense culturelle des communes en 2023 ?,gpt-5.5,4031,512,4543,20260525_123113_D_Q5_run02.md
+20260525_124342,A,1,Q1,Quelle est la dépense culturelle totale des régions en 2023 ?,gpt-4.1,24,291,315,20260525_124342_A_Q1_run01.md
+20260525_124345,A,1,Q2,Quelle région présente la dépense culturelle totale la plus élevée en 2023 ?,gpt-4.1,26,217,243,20260525_124345_A_Q2_run01.md
+20260525_124352,A,1,Q3,Quelles colonnes permettent d’identifier les dépenses culturelles d’investissement ?,gpt-4.1,25,512,537,20260525_124352_A_Q3_run01.md
+20260525_124357,A,1,Q4,Le fichier permet-il de comparer l’évolution des dépenses culturelles des régions entre 2014 et 2023 ?,gpt-4.1,33,417,450,20260525_124357_A_Q4_run01.md
+20260525_124400,A,1,Q5,Quelle est la dépense culturelle des communes en 2023 ?,gpt-4.1,23,431,454,20260525_124400_A_Q5_run01.md
+20260525_124939,D,1,Q1,Quelle est la dépense culturelle totale des régions en 2023 ?,gpt-4.1,4033,512,4545,20260525_124939_D_Q1_run01.md
+20260525_124944,D,1,Q2,Quelle région présente la dépense culturelle totale la plus élevée en 2023 ?,gpt-4.1,4035,512,4547,20260525_124944_D_Q2_run01.md
+20260525_124951,D,1,Q3,Quelles colonnes permettent d’identifier les dépenses culturelles d’investissement ?,gpt-4.1,4034,512,4546,20260525_124951_D_Q3_run01.md
+20260525_124956,D,1,Q4,Le fichier permet-il de comparer l’évolution des dépenses culturelles des régions entre 2014 et 2023 ?,gpt-4.1,4042,512,4554,20260525_124956_D_Q4_run01.md
+20260525_125005,D,1,Q5,Quelle est la dépense culturelle des communes en 2023 ?,gpt-4.1,4032,512,4544,20260525_125005_D_Q5_run01.md
+20260525_145648,D,1,Q1,Quelle est la dépense culturelle totale des régions en 2023 ?,gpt-4.1,555,103,658,20260525_145648_D_Q1_run01.md
+20260525_145650,D,1,Q2,Quelle région présente la dépense culturelle totale la plus élevée en 2023 ?,gpt-4.1,557,89,646,20260525_145650_D_Q2_run01.md
+20260525_145652,D,1,Q3,Quelles colonnes permettent d’identifier les dépenses culturelles d’investissement ?,gpt-4.1,556,86,642,20260525_145652_D_Q3_run01.md
+20260525_145653,D,1,Q4,Le fichier permet-il de comparer l’évolution des dépenses culturelles des régions entre 2014 et 2023 ?,gpt-4.1,564,87,651,20260525_145653_D_Q4_run01.md
+20260525_145655,D,1,Q5,Quelle est la dépense culturelle des communes en 2023 ?,gpt-4.1,554,111,665,20260525_145655_D_Q5_run01.md
