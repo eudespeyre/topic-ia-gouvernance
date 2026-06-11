@@ -1,0 +1,9 @@
+timestamp,configuration,run,question_id,question,model,status,error,prompt_tokens,response_tokens,total_tokens,markdown_file
+20260525_152416,D_NATIVE_MCP,1,Q1,Quelle est la dépense culturelle totale des régions en 2023 ?,gpt-4.1,completed,,6697,405,7102,20260525_152416_D_NATIVE_MCP_Q1_run01.md
+20260525_152643,D_NATIVE_MCP,1,Q2,Quelle région présente la dépense culturelle totale la plus élevée en 2023 ?,gpt-4.1,completed,,7030,414,7444,20260525_152643_D_NATIVE_MCP_Q2_run01.md
+20260525_152729,D_NATIVE_MCP,1,Q3,Quelles colonnes permettent d’identifier les dépenses culturelles d’investissement ?,gpt-4.1,completed,,6530,479,7009,20260525_152729_D_NATIVE_MCP_Q3_run01.md
+20260525_153811,D_NATIVE_MCP,1,Q1,Quelle est la dépense culturelle totale des régions en 2023 ?,gpt-4.1,completed,,6927,258,7185,20260525_153811_D_NATIVE_MCP_Q1_run01.md
+20260525_160611,D_NATIVE_MCP,1,Q1,Quelle est la dépense culturelle totale des régions en 2023 ?,gpt-4.1,completed,,8739,291,9030,20260525_160611_D_NATIVE_MCP_Q1_run01.md
+20260525_160659,D_NATIVE_MCP,1,Q2,Quelle région présente la dépense culturelle totale la plus élevée en 2023 ?,gpt-4.1,completed,,8741,321,9062,20260525_160659_D_NATIVE_MCP_Q2_run01.md
+20260525_160738,D_NATIVE_MCP,1,Q3,Quelles colonnes permettent d’identifier les dépenses culturelles d’investissement ?,gpt-4.1,completed,,11334,193,11527,20260525_160738_D_NATIVE_MCP_Q3_run01.md
+20260525_160801,D_NATIVE_MCP,1,Q4,Le fichier permet-il de comparer l’évolution des dépenses culturelles des régions entre 2014 et 2023 ?,gpt-4.1,completed,,8482,311,8793,20260525_160801_D_NATIVE_MCP_Q4_run01.md
