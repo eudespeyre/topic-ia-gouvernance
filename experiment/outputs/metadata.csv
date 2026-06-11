@@ -1,0 +1,26 @@
+timestamp,model,prompt,prompt_tokens,response_tokens,total_duration
+20260525_090923,mistral,Réponds en une phrase : qu’est-ce qu’un dataset ?,21,45,3478002166
+20260525_091937,mistral,Réponds en une phrase : qu’est-ce qu’un dataset ?,21,32,15469981250
+20260525_094959,Q1,Quelle est la dépense culturelle totale des régions en 2023 ?,mistral,25,67,30826636542
+20260525_095023,Q2,Quelles colonnes permettent d’identifier les dépenses d’investissement ?,mistral,24,297,24370611584
+20260525_095032,Q3,Le dataset permet-il une comparaison entre régions ?,mistral,16,107,8390049083
+20260525_104746,A,1,Q1,Quelle est la dépense culturelle totale des régions en 2023 ?,mistral,29,146,22687787584,20260525_104746_A_Q1_run01.md
+20260525_104752,A,2,Q1,Quelle est la dépense culturelle totale des régions en 2023 ?,mistral,29,72,5503588750,20260525_104752_A_Q1_run02.md
+20260525_104758,A,1,Q2,Quelle région présente la dépense culturelle totale la plus élevée en 2023 ?,mistral,33,77,6301690875,20260525_104758_A_Q2_run01.md
+20260525_104807,A,2,Q2,Quelle région présente la dépense culturelle totale la plus élevée en 2023 ?,mistral,33,111,8583522250,20260525_104807_A_Q2_run02.md
+20260525_104838,A,1,Q3,Quelles colonnes permettent d’identifier les dépenses culturelles d’investissement ?,mistral,31,365,30464139083,20260525_104838_A_Q3_run01.md
+20260525_104904,A,2,Q3,Quelles colonnes permettent d’identifier les dépenses culturelles d’investissement ?,mistral,31,308,25571945625,20260525_104904_A_Q3_run02.md
+20260525_104913,A,1,Q4,Le fichier permet-il de comparer l’évolution des dépenses culturelles des régions entre 2014 et 2023 ?,mistral,45,95,8578090292,20260525_104913_A_Q4_run01.md
+20260525_104920,A,2,Q4,Le fichier permet-il de comparer l’évolution des dépenses culturelles des régions entre 2014 et 2023 ?,mistral,45,86,6904166125,20260525_104920_A_Q4_run02.md
+20260525_104924,A,1,Q5,Quelle est la dépense culturelle des communes en 2023 ?,mistral,26,42,3534836250,20260525_104924_A_Q5_run01.md
+20260525_104932,A,2,Q5,Quelle est la dépense culturelle des communes en 2023 ?,mistral,26,86,6905009042,20260525_104932_A_Q5_run02.md
+20260525_105024,D,1,Q1,Quelle est la dépense culturelle totale des régions en 2023 ?,mistral,4096,153,49354869292,20260525_105024_D_Q1_run01.md
+20260525_105109,D,2,Q1,Quelle est la dépense culturelle totale des régions en 2023 ?,mistral,4096,91,43865481625,20260525_105109_D_Q1_run02.md
+20260525_105206,D,1,Q2,Quelle région présente la dépense culturelle totale la plus élevée en 2023 ?,mistral,4096,232,55282346625,20260525_105206_D_Q2_run01.md
+20260525_105303,D,2,Q2,Quelle région présente la dépense culturelle totale la plus élevée en 2023 ?,mistral,4096,226,55281731042,20260525_105303_D_Q2_run02.md
+20260525_105409,D,1,Q3,Quelles colonnes permettent d’identifier les dépenses culturelles d’investissement ?,mistral,4096,300,63717497583,20260525_105409_D_Q3_run01.md
+20260525_105513,D,2,Q3,Quelles colonnes permettent d’identifier les dépenses culturelles d’investissement ?,mistral,4096,255,61758079250,20260525_105513_D_Q3_run02.md
+20260525_105607,D,1,Q4,Le fichier permet-il de comparer l’évolution des dépenses culturelles des régions entre 2014 et 2023 ?,mistral,4096,85,51773726875,20260525_105607_D_Q4_run01.md
+20260525_105658,D,2,Q4,Le fichier permet-il de comparer l’évolution des dépenses culturelles des régions entre 2014 et 2023 ?,mistral,4096,94,49159631708,20260525_105658_D_Q4_run02.md
+20260525_105750,D,1,Q5,Quelle est la dépense culturelle des communes en 2023 ?,mistral,4096,114,49274716667,20260525_105750_D_Q5_run01.md
+20260525_105843,D,2,Q5,Quelle est la dépense culturelle des communes en 2023 ?,mistral,4096,137,51169015083,20260525_105843_D_Q5_run02.md
