@@ -1,5 +1,6 @@
 import csv
 import json
+import os
 from datetime import datetime
 from pathlib import Path
 
@@ -10,7 +11,7 @@ MODEL = "mistral"
 NB_RUNS = 2
 
 TOPIC_ID = "univers-culture-deps"
-MCP_URL = "http://127.0.0.1:8007/mcp"
+MCP_URL = os.getenv("MCP_URL", "http://127.0.0.1:8007/mcp")
 
 prompt_file = "prompts/system_A.txt"
 
