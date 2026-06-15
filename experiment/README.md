@@ -2,7 +2,7 @@
 
 Ce dossier contient les scripts d’expérimentation associés au dépôt `topic-ia-gouvernance`.
 
-Les tests documentés ici visent à évaluer progressivement l’usage d’un serveur MCP custom exposant des outils liés aux topics data.gouv.fr, notamment pour le topic `univers-culture-deps`.
+Les tests documentés ici visent à expérimenter progressivement l’usage d’un serveur MCP custom exposant des outils liés aux topics data.gouv.fr, notamment pour le topic `univers-culture-deps`.
 
 ## 1. Lancer le serveur MCP local
 
