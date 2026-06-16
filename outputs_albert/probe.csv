@@ -1,0 +1,5 @@
+timestamp_utc,model,ok,finish_reason,emitted_tool_call,args_valid_json,system_fingerprint,prompt_tokens,completion_tokens,cost,kWh,kgCO2eq,seed,temperature
+20260615_201816,openai/gpt-oss-120b,True,tool_calls,True,True,,21,0,0.0,1.1729231949947866e-05,6.583236989456188e-07,42,0
+20260615_201816,Qwen/Qwen3-Coder-30B-A3B-Instruct,True,tool_calls,True,True,,21,0,0.0,1.194073082839719e-06,7.67840603823888e-08,42,0
+20260615_201816,mistralai/Mistral-Small-3.2-24B-Instruct-2506,True,tool_calls,True,True,,21,0,0.0,1.5961881618789684e-06,1.1322335152703182e-07,42,0
+20260615_201816,mistralai/Ministral-3-8B-Instruct-2512,True,tool_calls,True,True,,21,0,0.0,1.1884754826109688e-06,6.220566655687014e-08,42,0

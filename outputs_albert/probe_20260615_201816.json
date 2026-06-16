@@ -1,0 +1,77 @@
+{
+  "timestamp_utc": "20260615_201816",
+  "base_url": "https://albert.api.etalab.gouv.fr/v1",
+  "seed": 42,
+  "temperature": 0,
+  "question": "Liste les jeux de donnees du topic univers-culture-deps. Utilise l'outil disponible.",
+  "models": {
+    "openai/gpt-oss-120b": {
+      "ok": true,
+      "tool_choice": "auto",
+      "finish_reason": "tool_calls",
+      "emitted_tool_call": true,
+      "tool_name": "list_topic_elements",
+      "args_valid_json": true,
+      "parsed_args": {
+        "topic_id": "univers-culture-deps"
+      },
+      "system_fingerprint": null,
+      "prompt_tokens": 21,
+      "completion_tokens": 0,
+      "cost": 0.0,
+      "kWh": 1.1729231949947866e-05,
+      "kgCO2eq": 6.583236989456188e-07
+    },
+    "Qwen/Qwen3-Coder-30B-A3B-Instruct": {
+      "ok": true,
+      "tool_choice": "auto",
+      "finish_reason": "tool_calls",
+      "emitted_tool_call": true,
+      "tool_name": "list_topic_elements",
+      "args_valid_json": true,
+      "parsed_args": {
+        "topic_id": "univers-culture-deps"
+      },
+      "system_fingerprint": null,
+      "prompt_tokens": 21,
+      "completion_tokens": 0,
+      "cost": 0.0,
+      "kWh": 1.194073082839719e-06,
+      "kgCO2eq": 7.67840603823888e-08
+    },
+    "mistralai/Mistral-Small-3.2-24B-Instruct-2506": {
+      "ok": true,
+      "tool_choice": "auto",
+      "finish_reason": "tool_calls",
+      "emitted_tool_call": true,
+      "tool_name": "list_topic_elements",
+      "args_valid_json": true,
+      "parsed_args": {
+        "topic_id": "univers-culture-deps"
+      },
+      "system_fingerprint": null,
+      "prompt_tokens": 21,
+      "completion_tokens": 0,
+      "cost": 0.0,
+      "kWh": 1.5961881618789684e-06,
+      "kgCO2eq": 1.1322335152703182e-07
+    },
+    "mistralai/Ministral-3-8B-Instruct-2512": {
+      "ok": true,
+      "tool_choice": "auto",
+      "finish_reason": "tool_calls",
+      "emitted_tool_call": true,
+      "tool_name": "list_topic_elements",
+      "args_valid_json": true,
+      "parsed_args": {
+        "topic_id": "univers-culture-deps"
+      },
+      "system_fingerprint": null,
+      "prompt_tokens": 21,
+      "completion_tokens": 0,
+      "cost": 0.0,
+      "kWh": 1.1884754826109688e-06,
+      "kgCO2eq": 6.220566655687014e-08
+    }
+  }
+}

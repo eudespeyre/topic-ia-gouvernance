@@ -1,0 +1,8 @@
+model,question_id,run,n_steps,resource_hit,answer_value_eur,answer_exact,calc_error_after_hit,false_negative,data_hallucination,unsupported_action,kWh_total,finish_last
+mistral-medium-latest,Q1,1,20,False,,False,False,False,False,False,0.0,tool_calls
+mistralai/Ministral-3-8B-Instruct-2512,Q1,1,9,False,,False,False,True,False,False,0.001316,stop
+mistralai/Ministral-3-8B-Instruct-2512,Q1,2,6,False,,False,False,True,False,False,0.000825,stop
+mistralai/Ministral-3-8B-Instruct-2512,Q1,3,11,True,1022300000.0,False,True,False,False,False,0.003685,stop
+mistralai/Mistral-Small-3.2-24B-Instruct-2506,Q1,1,13,False,,False,False,True,False,False,0.003787,stop
+mistralai/Mistral-Small-3.2-24B-Instruct-2506,Q1,2,7,False,,False,False,True,False,False,0.001284,stop
+mistralai/Mistral-Small-3.2-24B-Instruct-2506,Q1,3,7,False,,False,False,True,False,False,0.001276,stop
